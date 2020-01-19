@@ -1,0 +1,13 @@
+$wid: 100%;
+
+.container-products{
+    display: flex;
+    flex-wrap: wrap;
+    width: $wid;
+    background-color: greenyellow;
+}
+
+.container-products .item{
+    width: 200px;
+}
+
